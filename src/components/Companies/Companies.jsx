@@ -8,7 +8,7 @@ const Companies = () => {
           <div className="grid grid-rows-2 gap-4">
             <div className="text-center p-6 bg-dark">
               <h1 className="text-5xl font-bold">HURON</h1>
-              <p className="text-xl font-semibold"> 1.5 Years Experience</p>
+              <p className="text-xl font-semibold"> 2 Years Experience</p>
             </div>
           </div>
           {/* second col */}
@@ -31,3 +31,4 @@ const Companies = () => {
 };
 
 export default Companies;
+
