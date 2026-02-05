@@ -18,16 +18,16 @@ const Experience = () => {
 
           <ul className="list-disc pl-5 space-y-2 text-gray-300 text-sm md:text-base">
   <li>
-    <strong>Cloud Monitoring & Debugging:</strong> Utilized <strong>AWS Lambda</strong> & <strong>CloudWatch logs</strong> 
-    for real-time monitoring, reducing debugging time by <strong>40%</strong> through automated issue tracking.
+    <strong>Test Observability & Monitoring: </strong> Cloud Monitoring & Debugging </strong> to build a real-time test execution dashboard, reducing failure analysis 
+    time by <strong> 40% </strong> through automated log aggregation and issue categorization.
   </li>
   <li>
-    <strong>Resilient & Fault-Tolerant Systems:</strong> Implemented <strong>robust error-handling mechanisms</strong> with 
-    proactive logging, minimizing system downtime and improving <strong>stability by 25%</strong>.
+    <strong>Automated Resilience Testing:</strong> Implemented robust error-handling and fault-injection scripts within the automation framework, 
+    proactively identifying edge cases and improving system stability by <strong> 20% </strong> before production releases.
   </li>
   <li>
-    <strong>Interactive & Scalable Frontend Development:</strong> Engineered highly interactive, reusable <strong>React components</strong> 
-    with optimized state management, enhancing <strong>UI responsiveness</strong> and boosting <strong>user engagement</strong>.
+    <strong>UI Automation & Component Testing:</strong> Engineered a scalable UI testing framework using <strong> Playwright and Selenium </strong> 
+    for complex React components,leveraging optimized state-handling to reduce flaky test results and increase automation coverage for user engagement features.
   </li>
   <li>
     <strong>Error Handling & Stability:</strong> Designed <strong>error-handling mechanisms</strong>, covering edge cases 
