@@ -8,14 +8,14 @@ const Companies = () => {
           <div className="grid grid-rows-2 gap-4">
             <div className="text-center p-6 bg-dark">
               <h1 className="text-5xl font-bold">HURON</h1>
-              <p className="text-xl font-semibold"> 2 Years Experience</p>
+              <p className="text-xl font-semibold"> 2.5+ Years Experience</p>
             </div>
           </div>
           {/* second col */}
           <div className="grid grid-rows-2 gap-4">
             <div className="text-center p-6 bg-dark">
               <h1 className="text-3xl font-bold">Analyst I</h1>
-              <p>Joined as Fresher</p>
+              <p>Associate Software Engineer in Test</p>
             </div>
           </div>
           {/* Third col */}
@@ -31,4 +31,5 @@ const Companies = () => {
 };
 
 export default Companies;
+
 
